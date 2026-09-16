@@ -1,10 +1,56 @@
-body {
-    font-family:Arial, sans-serif;
-    text-align: centre;
-    background-color:lightblue;
+html 
+{
+  height: 100%;
+  background: 50% 50% no-repeat
+    url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
 }
-h1,
+body 
+{
+  background-color:green;
+      font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+}
+
+h1 
+{
+  color: white;
+}
+h2 
+{
+background-color:white;
+}
+
+ul,
+ol
+{
+  color:white;
+}
 p
 {
-    color: darkblue;
+  color:white;
+}
+p 
+{
+   max-width: 800px;
+  margin: 0 auto;
+}
+
+ul,
+ol {
+  display: inline-block;
+  text-align: left;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  margin: 10px;
+  border-radius: 8px;
+  color:white;
+}
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
