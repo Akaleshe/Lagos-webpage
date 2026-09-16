@@ -1,9 +1,10 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
+    font-family:Arial, sans-serif;
+    text-align: centre;
     background-colour:lightblue;
 }
-h1
+h1,
+p
 {
     colour: darkblue;
 }
