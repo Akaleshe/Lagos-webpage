@@ -3,6 +3,7 @@ body {
   text-align: centre;
   background-colour: green;
 }
-h1 {
+h1,
+p {
   colour: white;
 }
