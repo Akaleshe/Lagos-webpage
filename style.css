@@ -1,10 +1,10 @@
 body {
     font-family:Arial, sans-serif;
     text-align: centre;
-    background-colour:lightblue;
+    background-color:lightblue;
 }
 h1,
 p
 {
-    colour: darkblue;
+    color: darkblue;
 }
